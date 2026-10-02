@@ -6,6 +6,8 @@ build_report.py
 *.docx
 !**/task/*.docx
 ~$*.docx
+conspect.*
+CONSPECT_RU.*
 
 # Python cache
 __pycache__/
