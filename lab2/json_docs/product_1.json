@@ -1,0 +1,15 @@
+{
+  "product_id": "PROD-101",
+  "name": "Ігровий монітор ASUS TUF Gaming VG27AQ",
+  "category": "Монітори",
+  "price": 13999.00,
+  "in_stock": true,
+  "stock_quantity": 18,
+  "tags": [
+    "ips",
+    "165hz",
+    "2k_qhd",
+    "g-sync",
+    "hdr10"
+  ]
+}

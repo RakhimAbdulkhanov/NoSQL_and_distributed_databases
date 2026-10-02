@@ -1,0 +1,15 @@
+{
+  "order_id": "ORD-2026-002",
+  "order_date": "2026-10-02T11:40:00Z",
+  "customer_id": "CUST-5120",
+  "total_amount": 68999.00,
+  "status": "Обробляється",
+  "delivery_details": {
+    "courier_service": "Нова Пошта",
+    "delivery_type": "Відділення",
+    "city": "Львів",
+    "warehouse_number": 42,
+    "recipient_name": "Абдулханов Абдул-Рахім",
+    "phone": "+380671234567"
+  }
+}

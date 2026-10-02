@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-2026-001",
+  "order_date": "2026-10-02T10:15:30Z",
+  "customer_id": "CUST-4091",
+  "total_amount": 32498.00,
+  "payment_method": "Google Pay",
+  "is_paid": true,
+  "items": [
+    {
+      "product_id": "PROD-101",
+      "title": "Ігровий монітор ASUS TUF Gaming VG27AQ",
+      "quantity": 1,
+      "price": 13999.00
+    },
+    {
+      "product_id": "PROD-102",
+      "title": "Процесор AMD Ryzen 7 7800X3D",
+      "quantity": 1,
+      "price": 18499.00
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order_id": "ORD-2026-003",
+  "order_date": "2026-10-02T12:05:15Z",
+  "customer_id": "CUST-7801",
+  "total_amount": 87498.00,
+  "status": "Відправлено",
+  "tracking_history": [
+    "Створено замовлення: 2026-10-02 12:05",
+    "Оплачено онлайн: 2026-10-02 12:08",
+    "Зібрано на складі: 2026-10-02 13:20",
+    "Передано перевізнику: 2026-10-02 14:00"
+  ],
+  "customer_profile": {
+    "first_name": "Олексій",
+    "last_name": "Коваленко",
+    "email": "o.kovalenko@example.com",
+    "loyalty_tier": "Gold"
+  }
+}

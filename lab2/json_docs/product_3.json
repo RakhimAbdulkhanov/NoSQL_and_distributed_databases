@@ -1,0 +1,21 @@
+{
+  "product_id": "PROD-103",
+  "name": "Ноутбук Lenovo Legion Pro 5 16IRX9",
+  "category": "Ноутбуки",
+  "price": 68999.00,
+  "in_stock": true,
+  "stock_quantity": 7,
+  "hardware": {
+    "cpu": "Intel Core i7-14700HX",
+    "gpu": "NVIDIA GeForce RTX 4070 8GB",
+    "ram_gb": 32,
+    "ssd_gb": 1024
+  },
+  "interfaces": [
+    "Thunderbolt 4",
+    "HDMI 2.1",
+    "USB 3.2 Gen 2",
+    "RJ-45 Ethernet",
+    "Wi-Fi 6E"
+  ]
+}

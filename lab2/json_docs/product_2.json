@@ -1,0 +1,17 @@
+{
+  "product_id": "PROD-102",
+  "name": "Процесор AMD Ryzen 7 7800X3D",
+  "category": "Процесори",
+  "price": 18499.00,
+  "in_stock": true,
+  "stock_quantity": 25,
+  "specifications": {
+    "socket": "AM5",
+    "cores": 8,
+    "threads": 16,
+    "base_clock_ghz": 4.2,
+    "boost_clock_ghz": 5.0,
+    "l3_cache_mb": 96,
+    "tdp_watts": 120
+  }
+}
