@@ -6,8 +6,15 @@ build_report.py
 *.docx
 !**/task/*.docx
 ~$*.docx
-conspect.*
-CONSPECT_RU.*
+*conspect*
+*CONSPECT*
+!**/nosql_db_lab2_conspect.pdf
+guides/
+*guide*
+!**/make_lab2_guide.py
+lecture_slides/
+lecture_imgs/
+*rendered/
 
 # Python cache
 __pycache__/
